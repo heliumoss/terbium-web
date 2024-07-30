@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { ChevronLeft } from 'lucide-svelte';
 
-	let active = true;
+	let active = false;
 </script>
 
 <div class="flex w-full">
